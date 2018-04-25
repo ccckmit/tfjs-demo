@@ -4,6 +4,13 @@ This project is modified from the Tensorflow.js examples from the following url:
 
 https://github.com/tensorflow/tfjs-examples
 
+## Online Demo
+
+* https://rawgit.com/ccckmit/tfjs-chrome/master/mnist/index.html
+* https://rawgit.com/ccckmit/tfjs-chrome/master/polynomial-regression/index.html
+
+## Install & Run
+
 No ES6 syntax preprocessing is needed. Just copy the example folder onto a server and visit http://server:port/folder/index.html by any browser that support async/await javascript syntax (Chrome  65.0.3325.181 on iMac was tested)
 
 You may use live-server to run server on localhost as following.
