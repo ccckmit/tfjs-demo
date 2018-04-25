@@ -6,6 +6,11 @@ https://github.com/tensorflow/tfjs-examples
 
 No ES6 syntax preprocessing is allowed. Just start a server and use Chrome browser to visit index.html.
 
+## Online Demo
+
+* https://rawgit.com/ccckmit/tfjs-chrome/master/mnist/index.html
+* https://rawgit.com/ccckmit/tfjs-chrome/master/polynomial-regression/index.html
+
 ## Original README.md
 
 This example shows you how to train MNIST (using the layers API).
